@@ -25,7 +25,7 @@ function sayHiToHeadphonedRoommate(string) {
     else if (string.toUpperCase(string) === string) {
         return upperCase;
     }
-    else if ("Let's hae=ve dinner together!") {
+    else if ("Let's have dinner together!") {
         return dinner;
     }
 }
